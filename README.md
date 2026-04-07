@@ -1,1 +1,2 @@
-
+This repository shows my web development projects and the skills I gained through acamedic an personal experience. It includes websites and small apps I built using HTML, CSS, JavaScript, and basic frameworks. Each project helps me practice coding, design, and problem solving. I enjoy creating clean, simple, and useful designs. Feel free to explore the code, see how things work, and follow my growth as I keep building and improving new projects over time. 
+Thank you for visiting.
