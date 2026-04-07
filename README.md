@@ -1,1 +1,2 @@
-# eleven20four.github.io
+This Repository shows my web development skills gained throught academic and personal projects. You will find websites built with HTML, CSS, JavaScript, and backend tools. Each project shows my progress, problem solving, and attention to detail. I enjoy creating clean, simple, and useful designs. You can explore my work, see how I improve, and learn from my examples. I keep updating this repository as I learn new skills and build better projects over time. 
+Thank you for visiting.
